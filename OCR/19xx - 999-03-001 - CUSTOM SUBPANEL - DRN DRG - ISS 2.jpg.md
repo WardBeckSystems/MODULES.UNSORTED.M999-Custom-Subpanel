@@ -32,7 +32,7 @@ Wiki page: [M999](../../../../PAGES/M999.md)
 - **Words (OCR):** 94 in 72 lines: 0.750 · 5.500 · 3.312 · NOTCH ACCORDINGL · 4 REQ [ · 0.245 · TYP · 0.625 · 0.185 · TYP · 0.101 DIA · REQ'D
 - **Title block:** (295, 8)–(419, 59) mm: ISSUEL · REMSION · WES WARD-BECK SYSTEMS · IDRN: · DRG · ENG. · CUSTOM · SUBPANEL · APP · SCALE DISC NO: · 460 · 999-03-001 · ISSUE · COOE: 999MOI
 
-Every curve, box, word and wire group: [19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20999-03-001%20-%20CUSTOM%20SUBPANEL%20-%20DRN%20DRG%20-%20ISS%202%20(traced).json) (the CAD file: `19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (traced).json](../MECHANICAL/19xx%20-%20999-03-001%20-%20CUSTOM%20SUBPANEL%20-%20DRN%20DRG%20-%20ISS%202%20%28traced%29.json) (the CAD file: `19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2 (traced).dxf`).
 
 ## Full text
 

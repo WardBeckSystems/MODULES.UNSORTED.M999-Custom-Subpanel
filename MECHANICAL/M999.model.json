@@ -1,7 +1,7 @@
 {
  "format": "wbs-model/1",
  "module": "M999",
- "repo": "MODULES.UNSORTED.M999-Custom-Subpanel",
+ "repo": "MODULES.RENAISSANCE.M999-Custom-Subpanel",
  "title": "Custom Subpanel",
  "category": "UNSORTED",
  "units": "mm; x right, y up from the front panel's lower-left corner, z out of the face",

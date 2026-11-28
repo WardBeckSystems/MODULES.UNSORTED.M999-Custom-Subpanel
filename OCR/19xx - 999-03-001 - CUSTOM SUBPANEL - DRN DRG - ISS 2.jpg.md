@@ -1,5 +1,5 @@
 # 19xx - 999-03-001 - CUSTOM SUBPANEL - DRN DRG - ISS 2.jpg
-Wiki page: [M999](../../../../PAGES/M999.md)
+Wiki page: [M999](../)
 
 
 - **Year:** unknown (title block (read by eye))

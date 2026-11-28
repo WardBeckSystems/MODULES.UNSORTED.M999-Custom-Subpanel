@@ -1,6 +1,6 @@
 # M999 Custom Subpanel · Renaissance
 
-Ward-Beck Systems M999. Wiki page: [M999 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M999.html)
+Ward-Beck Systems M999. Wiki page: [M999 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M999-Custom-Subpanel/)
 
 | Folder | What is in it | Files |
 |---|---|---|
